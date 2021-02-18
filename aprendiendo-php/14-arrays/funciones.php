@@ -19,7 +19,6 @@ var_dump($cantantes);
 echo '<br/>'.'<hr/>';
 array_push($cantantes, 'Waor');
 var_dump($cantantes);
-echo '<br/>'.'<hr/>';
 array_pop($cantantes);
 unset($cantantes[3]);
 var_dump($cantantes);
