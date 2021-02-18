@@ -1,5 +1,5 @@
 <?php
-// Funciones
+// Funciones 
 $cantantes = ['2pack', 'Drake', 'Jennifer Lopez','Alfredo'];
 $numeros = [1,2,3,4,5,8];
 // Ordenar Arrays
